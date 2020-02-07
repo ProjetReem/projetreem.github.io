@@ -84,12 +84,32 @@ h4 {
     opacity: 0.7;
 }
 
-#logojeu{
-
-float: right;
+#logojeu {
+    float: right;
 }
 
 #footer {
-float: left;
+    float: left;
+}
 
+#Member {
+    background-image: url("img/basnuit.PNG");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 10em;
+    padding-bottom: 10em;
+    opacity: 0.7;
+}
+
+#Chiffres {
+    background-image: url("img/basnuit.PNG");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 10em;
+    padding-bottom: 10em;
+    opacity: 0.7;
 }
