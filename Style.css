@@ -18,6 +18,14 @@ h4 {
     padding-right: 20%;
 }
 
+a {
+    text-align: center;
+    color: white;
+    font-size: 2em;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
 #pres_txt {
     background-image: url("img/base.png");
     background-attachment: fixed;
